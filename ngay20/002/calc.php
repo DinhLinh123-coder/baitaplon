@@ -21,13 +21,12 @@
     if (isset($_POST["roomtype"]) && in_array($_POST["roomtype"], [1,2,3])
     && isset($_POST["days"])) {
 
-        if ($_POST["roomtype"] == 1) {
-            $price = 200000;
-        } elseif ($_POST["roomtype"] == 2) {
-            $price = 400000;
-        } elseif ($_POST["roomtype"] == 3) {
-            $price = 1000000;
-        }
+       $roomPrices= [];
+       $roomPrices[1]=200000;
+       $roomPrices[2]=400000;
+       $roomPrices[3]=1000000;
+        $roomtype = $_POST["roomtype"];
+        $price = $roomPrices[$roomtype];
 
         // số ngày khách thuê
         $days = ($_POST["days"] > 0) ? (int) $_POST["days"] : 0;

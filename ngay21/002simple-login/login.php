@@ -1,4 +1,6 @@
 <?php session_start();
+$_SESSION['linh'] = 'Dinh Linh';
+
 // đăng nhập rồi
 if (isset($_SESSION["user"])) {
     // chuyển hướng
@@ -22,7 +24,7 @@ if (isset($_POST) && !empty($_POST)) {
 
             // gán sesssion user thành công
             $_SESSION["user"] = "admin";
-
+            setcookie('linhlinh','admin');
             // chuyển hướng dashboard.php
             header("Location: dashboard.php");
             exit;

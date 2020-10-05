@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="33581b7a-376a-4d1b-a369-60b492def7b7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/404.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc-simple.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/001/controllers/AuthorController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/001/controllers/BookController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/001/controllers/ErrorController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/001/models/AuthorModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/001/models/BookModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/001/models/Database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/001/route.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/001/view/author/create.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/001/view/author/delete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/001/view/author/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/001/view/author/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/001/view/book/create.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/001/view/book/delete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/001/view/book/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/001/view/book/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/001/view/error/404.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay22/001/index1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay22/001/index2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay22/001/index3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay22/002/index1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay22/002/index2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay22/003/index1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay22/003/index2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay22/003/index3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay22/004/index1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay22/004/profile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay23/001/index1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay23/001/index2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay23/001/index3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay23/003detetime/bootstrap-datetimepicker.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay23/003detetime/bootstrap-datetimepicker.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay23/003detetime/index1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay23/003detetime/index2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay23/003detetime/index3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay23/003detetime/index4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay23/003detetime/index5.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay23/003detetime/index6.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay23/009/index1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay23/009/profile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay24/001/index1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay24/001/index2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay24/001/index3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay24/001/index4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay24/001/index5.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay24/001/index6.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay24/001/index6a.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay24/001/linh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay24/001/linh1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay25/001/index1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay25/001/index2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay25/001/index3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay25/002/index1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay25/002/index2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay25/002/index3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay25/002/index4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay25/002/index5.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay25/003/index1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay25/003/index2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay25/004/index1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay25/004/index2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay25/005/index1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay25/006/index1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay25/006/index2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay25/006/index3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay25/006/index4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay26/001/index1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay26/001/index2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay26/002/index1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay27/001/index1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay27/001/index2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay27/001/index3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay27/001/index4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay27/001/index5.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay27/002/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay27/002/index1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay27/003/homepage.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay27/005/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay27/005/index1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay28a/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay28a/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay28a/connect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay28a/create.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay28a/delete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay28a/destroy.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay28a/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay28a/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay28a/store.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay28a/update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay28va29/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay28va29/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay28va29/connect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay28va29/create.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay28va29/delete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay28va29/destroy.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay28va29/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay28va29/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay28va29/store.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay28va29/update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay30/001/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay30/001/index2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay30/002/htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngay30/002/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngay20/002/calc.php" beforeDir="false" afterPath="$PROJECT_DIR$/ngay20/002/calc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngay21/002simple-login/dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/ngay21/002simple-login/dashboard.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngay21/002simple-login/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/ngay21/002simple-login/login.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="tsconfig.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gJfbHm9GiE2sXEmQbsiXyTHtfH" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../codelab-friendlychat-web-master" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\PHP2005" />
+      <recent name="C:\xampp\htdocs\PHP2005\ngay31\001" />
+      <recent name="C:\xampp\htdocs\PHP2005\ngay27\001" />
+      <recent name="C:\xampp\htdocs\PHP2005\ngay25\005" />
+      <recent name="C:\xampp\htdocs\PHP2005\ngay25\004" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33581b7a-376a-4d1b-a369-60b492def7b7" name="Default Changelist" comment="" />
+      <created>1597837687553</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597837687553</updated>
+      <workItem from="1597837689631" duration="6388000" />
+      <workItem from="1597996564311" duration="2734000" />
+      <workItem from="1598168755798" duration="269000" />
+      <workItem from="1598180610764" duration="8813000" />
+      <workItem from="1598277949485" duration="603000" />
+      <workItem from="1598439799519" duration="6891000" />
+      <workItem from="1598542343053" duration="1421000" />
+      <workItem from="1598753688741" duration="1341000" />
+      <workItem from="1598785626784" duration="8214000" />
+      <workItem from="1598939943239" duration="633000" />
+      <workItem from="1599293704347" duration="5679000" />
+      <workItem from="1599391355885" duration="8885000" />
+      <workItem from="1599544722375" duration="35000" />
+      <workItem from="1599574010223" duration="4659000" />
+      <workItem from="1599994970231" duration="620000" />
+      <workItem from="1600001189865" duration="3162000" />
+      <workItem from="1600149789365" duration="28000" />
+      <workItem from="1600254801567" duration="8761000" />
+      <workItem from="1600399114391" duration="1649000" />
+      <workItem from="1600408797591" duration="140000" />
+      <workItem from="1600523404336" duration="14552000" />
+      <workItem from="1600696927149" duration="801000" />
+      <workItem from="1600765194022" duration="18780000" />
+      <workItem from="1601013328886" duration="77000" />
+      <workItem from="1601205099759" duration="1668000" />
+      <workItem from="1601208592657" duration="2127000" />
+      <workItem from="1601359730904" duration="18000" />
+      <workItem from="1601392516177" duration="5040000" />
+      <workItem from="1601464613393" duration="9228000" />
+      <workItem from="1601618068720" duration="67000" />
+      <workItem from="1601621388485" duration="2106000" />
+      <workItem from="1601649031541" duration="1673000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="762" y="173" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601437815725">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="762" y="173" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1601437815725" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1601694301355">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1601694301355" />
+    <state x="518" y="287" key="NewPhpFileDialog" timestamp="1601471289097">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="518" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1601471289097" />
+    <state x="0" y="0" width="587" height="728" key="find.popup" timestamp="1600604245938">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" width="587" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1600604245938" />
+    <state x="849" y="708" width="672" height="676" key="search.everywhere.popup" timestamp="1601650275377">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="849" y="708" width="672" height="676" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1601650275377" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/ngay28va29/index.php</url>
+          <line>61</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

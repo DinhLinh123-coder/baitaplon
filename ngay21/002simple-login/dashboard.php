@@ -20,8 +20,10 @@ if (!isset($_SESSION["user"])) {
 
     <div>
         <h1>Đăng nhập thành công, chào <?php echo $_SESSION["user"] ?></h1>
-
+    <?= $_COOKIE['linhlinh'] ?>
         <a href="logout.php">Đăng xuất !</a>
+<!--        -->
+
     </div>
 
 </body>
